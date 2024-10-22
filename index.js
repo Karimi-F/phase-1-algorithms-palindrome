@@ -24,6 +24,7 @@ if (require.main === module) {
   console.log("=>", isPalindrome("a"));
   console.log("=>", isPalindrome("deed"));
   console.log("=>", isPalindrome("rotator"));
+  console.log("=>", isPalindrome("kayak"));
 
   console.log("");
 
